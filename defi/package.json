@@ -105,6 +105,7 @@
     "dotenv": "^16.0.1",
     "ethers": "^6.0.0",
     "hyper-express": "^6.8.7",
+    "viem": "^2.0.0",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "p-limit": "^3.0.0",
