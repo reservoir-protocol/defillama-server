@@ -9,6 +9,7 @@ const config: any = {
     tokens: [
       "0x09D4214C03D01F49544C0448DBE3A27f768F2b34", // rUSD
       "0x738d1115B90efa71AE468F1287fc864775e23a31", // srUSD
+      "0xfD36896c28f168bff79C9E7D57307E4a2645Da4f", // trUSD
       // "0x128D86A9e854a709Df06b884f81EeE7240F6cCf7", // termIssuer
     ],
     underlying: "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",

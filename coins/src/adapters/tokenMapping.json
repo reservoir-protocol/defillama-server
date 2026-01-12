@@ -96,6 +96,11 @@
       "symbol": "rUSD",
       "to": "coingecko#reservoir-rusd"
     },
+    "0xfD36896c28f168bff79C9E7D57307E4a2645Da4f": {
+      "decimals": "18",
+      "symbol": "trUSD",
+      "to": "asset#ethereum:0xfD36896c28f168bff79C9E7D57307E4a2645Da4f"
+    },
     "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116": {
       "decimals": "18",
       "symbol": "SBTC",
