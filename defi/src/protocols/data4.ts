@@ -26116,5 +26116,30 @@ const data4: Protocol[] = [
     twitter: "udonfi_chromia",
     listedAt: 1757530151,
   },
+  // TODO(agua): confirm `url`, `twitter`, `logo`, `category`, and `description`
+  // before opening the upstream PR. url/twitter are placeholders; the logo file
+  // (agua.jpg) must be added to DefiLlama's icons. Category defaults to match
+  // Upshift ("Onchain Capital Allocator").
+  {
+    id: "6712",
+    name: "Agua",
+    address: null,
+    symbol: "-",
+    url: "https://www.agua.finance/",
+    description:
+      "Agua issues onchain carry vaults. The Global Carry Vault takes USDC deposits into a diversified carry strategy and issues the aguaUSDCgc ERC-4626 share token.",
+    chain: "Ethereum",
+    logo: `${baseIconsUrl}/agua.jpg`,
+    audits: "0",
+    audit_note: null,
+    gecko_id: null,
+    cmcId: null,
+    category: "Onchain Capital Allocator",
+    chains: ["Ethereum"],
+    forkedFromIds: [],
+    module: "agua/index.js",
+    twitter: "agua_finance",
+    listedAt: 1785805818,
+  },
 ];
 export default data4;
